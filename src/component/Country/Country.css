@@ -1,0 +1,12 @@
+.country img{
+    width: 70%;    
+}
+.country{
+    width: 100%;
+    border: 1px solid green;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    padding: 30px;
+    margin-left: 15px;
+    box-shadow: 20px 20px 15px gray;
+}

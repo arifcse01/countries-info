@@ -1,0 +1,16 @@
+.country-details{
+    width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid goldenrod;
+    border-radius: 20px;
+    background: #fff;
+    box-shadow: 30px 30px 30px gray;
+}
+.country-details img{
+    width: 300px;
+}
+
+h1, h2, h3, h4, h5{
+    color: #09a538;
+}
